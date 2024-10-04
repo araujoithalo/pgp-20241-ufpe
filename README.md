@@ -5,3 +5,5 @@ Respositório destinado à entregas referentes a disciplina de Planejamento e Ge
 **Integrantes:** Dara Caroline <dcsv@cin.ufpe.br>, Ithalo Araujo <iras@cin.ufpe.br>, Sandrirames Albino <saf@cin.ufpe.br></br>
 **Representante:** Ithalo Araujo <iras@cin.ufpe.br></br>
 **Trello:** https://trello.com/b/fd5WG3NG
+**Protótipo (Figma):** https://www.figma.com/design/e3cxeP6341wknSIcBYA2xX/Untitled?node-id=0-1&t=Ek3ifijxdgDUCSEz-1
+**Wireframe (Miro):** https://miro.com/app/board/uXjVLco2kLQ=/
